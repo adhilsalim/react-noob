@@ -1,0 +1,1 @@
+ReactDOM.render(<p>I'm a paragraph</p>, document.getElementById('root'));
